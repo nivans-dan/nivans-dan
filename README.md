@@ -4,8 +4,9 @@
 
 ## I'm a Mechatronics engineering student, Database manager and Developer.
 
-- 👨‍💻 Currently developing a Sleep Timer Mobile app and working as a Intern for Listo.mx.
+- 👨‍💻 Working as an Intern for Listo.mx, taking the position of Full Stack Developer.
 - 💯 2022 Goals: Complete my mechatronics career path and become a full time developer engineer.
+- 💤 Extra: currently developing a Sleep Timer Mobile app.
 - 👾 Hobbies: I am an adventurous soul who loves to know new places and play video games.
 
 ### Connect with me:
