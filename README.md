@@ -48,8 +48,8 @@
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lNivans&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=-nivans-dan&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://lnivans.github.io/
+[website]: https://nivans-dan.github.io/
 [linkedin]: www.linkedin.com/in/danielnava3
