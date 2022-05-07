@@ -1,6 +1,6 @@
 ### Hi there, I'm Dan - [website] 👋
 
-[![Website](https://img.shields.io/website?label=lnivans.github.io&style=for-the-badge&url=https://nivans-dan.github.io/)](https://nivans-dan.github.io/)
+[![Website](https://img.shields.io/website?label=nivans-dan.github.io&style=for-the-badge&url=https://nivans-dan.github.io/)](https://nivans-dan.github.io/)
 
 ## I'm a Mechatronics engineering student, Database manager and Developer.
 
