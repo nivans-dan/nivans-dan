@@ -1,12 +1,12 @@
-### Hi there, I'm Dan - [website] 👋
+### Hi there, I'm Dan - [website] 👽
 
 [![Website](https://img.shields.io/website?label=nivans-dan.github.io&style=for-the-badge&url=https://nivans-dan.github.io/)](https://nivans-dan.github.io/)
 
-## I'm a Mechatronics engineering student, Database manager and Developer.
+## I'm a mechatronic engineer, software developer and database manager.
 
-- 👨‍💻 Working as an Intern for Listo.mx, taking the position of Full Stack Developer.
-- 💯 2022 Goals: Complete my mechatronics career path and become a full time developer engineer.
-- 💤 Extra: currently developing a Sleep Timer Mobile app.
+- 👨‍💻 Working for Listo.mx, taking the position of Full Stack Developer.
+- 💯 2023 Goals: do more personal projects, learn about mobile development.
+- 💤 Extra: currently developing a Sleep Timer Mobile app and Discord bots.
 - 👾 Hobbies: I am an adventurous soul who loves to know new places and play video games.
 
 ### Connect with me:
