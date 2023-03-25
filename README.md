@@ -51,5 +51,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivans-dan&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://nivans-dan.github.io/
+[website]: https://dan-main-portfolio.herokuapp.com/
 [linkedin]: www.linkedin.com/in/danielnava3
