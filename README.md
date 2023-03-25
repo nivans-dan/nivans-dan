@@ -1,6 +1,6 @@
 ### Hi there, I'm Dan - [website] 👽
 
-[![Website](https://img.shields.io/website?label=nivans-dan.github.io&style=for-the-badge&url=https://nivans-dan.github.io/)](https://nivans-dan.github.io/)
+[![Website](https://img.shields.io/website?label=nivans-dan.github.io&style=for-the-badge&url=https://dan-main-portfolio.herokuapp.com/)](https://dan-main-portfolio.herokuapp.com/)
 
 ## I'm a mechatronic engineer, software developer and database manager.
 
