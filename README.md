@@ -1,6 +1,6 @@
 ### Hi there, I'm Dan - [website] 👽
 
-[![Website](https://img.shields.io/website?label=https://dan-main-portfolio.herokuapp.com/&style=for-the-badge&url=https://dan-main-portfolio.herokuapp.com/)](https://dan-main-portfolio.herokuapp.com/)
+[![Website](https://img.shields.io/website?label=dan-main-portfolio.herokuapp.com&style=for-the-badge&url=https://dan-main-portfolio.herokuapp.com/)](https://dan-main-portfolio.herokuapp.com/)
 
 ## I'm a mechatronic engineer, software developer and database manager.
 
